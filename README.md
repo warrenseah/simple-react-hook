@@ -23,11 +23,11 @@ A simple full stack application showcasing the use of functional based component
 
 ## Setting Up
 ### 1. Clone the Repository:
-`$ git clone `
+`$ git clone https://github.com/warrenseah/simple-react-hook.git`
 
 ### 2. Install Dependencies:
 ```
-$ cd react_hooks
+$ cd simple-react-hook
 $ npm install 
 ```
 
